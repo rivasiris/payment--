@@ -8,7 +8,7 @@ on:
   push: REVENUE 
     branches: [ master ]
   pull_request: workflow
-    branches: [ master ] bestideals.leptitox.yml
+    branches: [ master ] bestideals.yml
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
